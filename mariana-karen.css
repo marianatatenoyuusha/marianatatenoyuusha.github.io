@@ -1,0 +1,53 @@
+*{
+background-image: url(opcion1.gif);
+}
+
+
+h2{
+    position: absolute;
+    top: 50pt;
+    right: 70pt;
+    background: rgb(54, 40, 179);
+    border-radius: 5px;
+    color: deepskyblue;
+    font-family: 'Allura', cursive;
+}
+h1{
+    position: absolute;
+    top: 70pt;
+    right: 310pt;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Staatliches', cursive;
+    font-size: 30pt;
+
+}
+img{
+    height: 150pt;
+    width: 300pt;
+    box-shadow: 4px 4px 15px blueviolet;
+}
+
+.mariana{
+    position: absolute;
+    top: 200pt;
+    right: 200pt;
+    height: 250pt;
+    width: 300pt;
+    border-radius: 15px;
+}
+
+.kagnis{
+    position: absolute;
+    top: 200pt;
+    left: 200pt;
+    height: 250pt;
+    width: 300pt;
+    border-radius: 15px;  
+}
+
+p{
+    color: lightgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+}

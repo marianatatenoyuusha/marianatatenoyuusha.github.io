@@ -1,0 +1,66 @@
+*{
+    background-color: darksalmon;
+}
+
+h1{ 
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+
+}
+
+p{
+position: absolute;
+right: 30em;
+top: 35px;
+}
+
+.bios{
+    position: absolute;
+    right: 35em;
+    top: 705px; 
+}
+
+H2{
+    font-family: 'Allura', cursive;
+    font-size: 50px;
+}
+li{
+    font-family: 'Josefin Slab', serif;
+    font-size: 30px;
+}
+
+img{
+    height: 150pt;
+    width: 300pt;
+    position: absolute;
+    right: 22em;
+    top: 150px;
+}
+
+.kit{
+    position: absolute;
+    right: 20em;
+    top: 2100px;
+    border-radius: 15px ;
+    width: 400pt;
+    height: 400pt;
+}
+.usb{
+    height: 150pt;
+    width: 300pt;
+    position: absolute;
+    right: 3em;
+    top: 250px;
+}
+
+.ins{
+    position: absolute;
+    right: 2em;
+    top: 1400px;
+}
+
+hr{
+    height: 25pt;
+    background-image: url(https://image.shutterstock.com/image-illustration/abstract-pink-paper-background-texture-260nw-1838335336.jpg);
+    width: 100%;
+}
