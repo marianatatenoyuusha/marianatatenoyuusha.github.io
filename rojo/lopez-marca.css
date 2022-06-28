@@ -1,0 +1,44 @@
+body{
+    background-color: #d4f0f0;
+ 
+}
+h1{
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 40pt;
+    color: #97c1a9;
+}
+img{
+    width: 150pt;
+    height: 150pt;
+    border: 7px dotted #aed9e0;
+    margin: 10pt;
+}
+div{
+    font-family: 'Chewy', cursive;
+    font-size: 25pt;
+    color: #b6cfb6;
+    margin: 10pt;
+}
+li{
+    font-family: 'Itim', cursive;
+    font-size: 20pt;
+    color: #034c52;
+}
+p{
+    color: #034c52;
+    background-color: aquamarine;
+    font-size: 18pt;
+    font-family: 'Itim', cursive;
+    width: 45%;
+    text-align: center;
+}
+ol li{
+background-color: #b6cfb6;
+margin: 10pt;
+}
+ul li{
+    background-color: #a2e1db;
+    margin: 10pt;  
+    width: 50%;
+}

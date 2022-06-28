@@ -1,0 +1,88 @@
+body{
+    background-color: #d4f0f0;
+ 
+}
+h1{
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 40pt;
+    color: #97c1a9;
+}
+img{
+    width: 150pt;
+    height: 150pt;
+    border: 7px dotted #aed9e0;
+    margin: 10pt;
+}
+div{
+    font-family: 'Chewy', cursive;
+    font-size: 25pt;
+}
+li{
+    font-family: 'Itim', cursive;
+    font-size: 20pt;
+    color: #034c52;
+}
+.tabla{
+    margin: auto;
+    width: 90%;
+}
+.materiales{
+    color: #b6cfb6;
+}
+.pasos{
+    color: #b6cfb6;
+    margin: 10pt;
+}
+p{
+    color: #034c52;
+    background-color: aquamarine;
+    font-size: 18pt;
+    font-family: 'Itim', cursive;
+    width: 45%;
+    text-align: center;
+}
+ol li{
+background-color: #b6cfb6;
+margin: 10pt;
+}
+   /* grid-template-columns: repeat(2,50%);
+    grid-template-rows: repeat(6, auto);
+
+    grid-template-areas: "arriba arriba"
+                        "uno dos"
+                        "tres cuatro"
+                        "cinco seis"
+                        "siete ocho"
+                        "abajo abajo";
+
+.tabla .materiales{
+    grid-area: arriba;
+}
+ul .prim{
+    grid-area:uno ;
+}
+ul .seg{
+    grid-area:dos ;
+}
+.tabla .terc{
+    grid-area:tres ;
+}
+.tabla .cuat{
+    grid-area:cuatro ;
+}
+.tabla .quint{
+    grid-area:cinco ;
+}
+.tabla .sex{
+    grid-area:seis ;
+}
+.tabla .sep{
+    grid-area:siete ;
+}
+.tabla .oct{
+    grid-area:ocho;
+}
+.tabla .nov{
+    grid-area:abajo ;
+}*/
